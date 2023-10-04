@@ -1,9 +1,13 @@
-# Monetto-api
-Monetto is a wallet for controlling financial inputs and outputs with user authentication.
+# Monetto API
 
-Made with:
-Node
-Express
-JWT Authentication
-MongoDB with Mongoose
-Software Archtecture Principles
+**Monetto** 
+é uma carteira para controle de entradas e saídas financeiras com autenticação de usuário.
+
+### Feito com:
+
+- Node
+- Express
+- JWT Authentication
+- MongoDB with Mongoose
+- Software Archtecture Principles
+
