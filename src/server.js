@@ -12,5 +12,5 @@ app.use(cors());
 app.use(authRouter);
 app.use(transactionRouter);
 
-const port = 10000;
+const port = process.env.PORT;
 app.listen(port, () => console.log(`Server listening in port ${port}`));
